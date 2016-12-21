@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ex04_4</string>
+    <string name="text_tvTextRed">Red</string>
+    <string name="text_tvTextGreen">Green</string>
+    <string name="text_tvTextBlue">Blue</string>
+    <string name="text_tvTextSelect">Please select the background color</string>
+    <string name="radiorgb">RGB</string>
+    <string name="hexadecimalcode">Hex color code</string>
+    <string name="colorType">Color Type</string>
+    <string name="format">format ex</string>
+    <string name="button">submit</string>
+    <string name="ERRO">Wrong format</string>
+    <string name="startSize">start size</string>
+    <string name="stopSize">stop size</string>
+</resources>

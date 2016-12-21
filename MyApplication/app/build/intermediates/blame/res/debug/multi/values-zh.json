@@ -1,0 +1,506 @@
+[
+    {
+        "outputFile": "F:\\Personal\\JAVA\\Android\\HomeWork\\final\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "F:\\Personal\\JAVA\\Android\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 527,
+                        "endColumn": 37,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 43,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "F:\\Personal\\JAVA\\Android\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 43,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 37,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "F:\\Personal\\JAVA\\Android\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 37,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 42,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "F:\\Personal\\JAVA\\Android\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 42,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 40,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "F:\\Personal\\JAVA\\Android\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 40,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 50,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "F:\\Personal\\JAVA\\Android\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 50,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 47,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "F:\\Personal\\JAVA\\Android\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 47,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 40,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "F:\\Personal\\JAVA\\Android\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 566,
+                        "endColumn": 40,
+                        "endOffset": 602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 39,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "F:\\Personal\\JAVA\\Android\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 39,
+                        "endOffset": 643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 46,
+                    "endOffset": 481
+                },
+                "from": {
+                    "file": "F:\\Personal\\JAVA\\Android\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 46,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endColumn": 47,
+                    "endOffset": 529
+                },
+                "from": {
+                    "file": "F:\\Personal\\JAVA\\Android\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 47,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 534,
+                    "endColumn": 45,
+                    "endOffset": 575
+                },
+                "from": {
+                    "file": "F:\\Personal\\JAVA\\Android\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 45,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 580,
+                    "endColumn": 53,
+                    "endOffset": 629
+                },
+                "from": {
+                    "file": "F:\\Personal\\JAVA\\Android\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endColumn": 53,
+                        "endOffset": 295
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\_android_java003\\HomeWork\\final\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "D:\\_android_java003\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 527,
+                        "endColumn": 37,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 43,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "D:\\_android_java003\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 43,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 37,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "D:\\_android_java003\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 37,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 42,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "D:\\_android_java003\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 42,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 40,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "D:\\_android_java003\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 40,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 50,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "D:\\_android_java003\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 50,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 47,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "D:\\_android_java003\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 47,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 40,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "D:\\_android_java003\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 566,
+                        "endColumn": 40,
+                        "endOffset": 602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 39,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "D:\\_android_java003\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 39,
+                        "endOffset": 643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 46,
+                    "endOffset": 481
+                },
+                "from": {
+                    "file": "D:\\_android_java003\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 46,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endColumn": 47,
+                    "endOffset": 529
+                },
+                "from": {
+                    "file": "D:\\_android_java003\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 47,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 534,
+                    "endColumn": 45,
+                    "endOffset": 575
+                },
+                "from": {
+                    "file": "D:\\_android_java003\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 45,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 580,
+                    "endColumn": 53,
+                    "endOffset": 629
+                },
+                "from": {
+                    "file": "D:\\_android_java003\\HomeWork\\final\\MyApplication\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endColumn": 53,
+                        "endOffset": 295
+                    }
+                }
+            }
+        ]
+    }
+]

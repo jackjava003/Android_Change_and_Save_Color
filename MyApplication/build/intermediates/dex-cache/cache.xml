@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android-sdk_r24.4.1-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="F:\Personal\JAVA\Android\HomeWork\final\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_4fecf62e328a589bec66cce036af14ef7b5e14e5.jar" />
+    </item>
+    <item
+        jar="F:\Personal\JAVA\Android\HomeWork\final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="F:\Personal\JAVA\Android\HomeWork\final\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_fc7eaf5d51fba0596127ef351c814b28c50aa5dd.jar" />
+    </item>
+    <item
+        jar="F:\Personal\JAVA\Android\HomeWork\final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="F:\Personal\JAVA\Android\HomeWork\final\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_89ef5d83d015268bc719f1ca29058ddb3e675882.jar" />
+    </item>
+    <item
+        jar="F:\Personal\JAVA\Android\HomeWork\final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="F:\Personal\JAVA\Android\HomeWork\final\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_a7a6b47d7dbc1c064923050ee72d867a1d757aa9.jar" />
+    </item>
+    <item
+        jar="F:\Personal\JAVA\Android\HomeWork\final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="F:\Personal\JAVA\Android\HomeWork\final\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_821de7dadb38f23325f16073b955b0f350761495.jar" />
+    </item>
+    <item
+        jar="F:\Personal\JAVA\Android\HomeWork\final\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="F:\Personal\JAVA\Android\HomeWork\final\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_ebe710017f8ffa8eeee1b86e072455e99f9f6856.jar" />
+    </item>
+
+</items>

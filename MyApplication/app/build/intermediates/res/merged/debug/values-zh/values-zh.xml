@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ERRO">格是錯誤</string>
+    <string name="app_name">練習04_4</string>
+    <string name="button">確認</string>
+    <string name="colorType">選擇樣式</string>
+    <string name="format">格式 例如</string>
+    <string name="hexadecimalcode">十六進制代碼</string>
+    <string name="radiorgb">三原色代碼(RGB)</string>
+    <string name="startSize">起始</string>
+    <string name="stopSize">結束</string>
+    <string name="text_tvTextBlue">藍色</string>
+    <string name="text_tvTextGreen">綠色</string>
+    <string name="text_tvTextRed">紅色</string>
+    <string name="text_tvTextSelect">請選擇背景顏色</string>
+</resources>
